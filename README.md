@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2a885991-1057-4a66-ba02-a8ee776b070d" width="300"/>
-</p>
+# 👋 Bienvenue sur mon GitHub !
 
-#
 <p align="center">
   <strong>Développeur web fullstack passionné par le code bien écrit, les projets utiles et l'apprentissage continu.</strong>
 </p>
