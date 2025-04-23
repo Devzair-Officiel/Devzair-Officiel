@@ -9,7 +9,7 @@ Développeur **web fullstack** passionné par le code bien écrit, les projets u
 - 💻 Développement front & back (Vue.js, Symfony, PHP, JS, HTML/CSS…)
 - 🔧 API REST, SQL, gestion des bases, sécurité & automatisation
 - 🌐 Connaissances en réseaux et infrastructures
-- 🧠 Exploration de l’IA, automation & no-code tools
+- 🧠 Exploration de l’IA & automation
 
 ---
 
@@ -40,8 +40,9 @@ Développeur **web fullstack** passionné par le code bien écrit, les projets u
 ## 📫 Me contacter
 
 Tu veux collaborer, discuter code ou simplement me dire bonjour ?  
-Je suis là 👉 [Ton email ou lien LinkedIn ici]  
-Et si tu veux voir mes projets, tu es au bon endroit 👇
+Je suis là 👉 contact@devzair.fr
+Tu veux voir mes projets, tu es au bon endroit 👇
+Et si tu as une suggestion, un retour, une idée ? Je prends avec plaisir 🙌
 
 ---
 
