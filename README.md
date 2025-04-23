@@ -1,6 +1,12 @@
-# 👋 Hello, moi c'est DevZair
 
-Développeur **web fullstack** passionné par le code bien écrit, les projets utiles et l'apprentissage continu.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a885991-1057-4a66-ba02-a8ee776b070d" />
+</p>
+
+#
+<p align="center">
+  <strong>Développeur web fullstack passionné par le code bien écrit, les projets utiles et l'apprentissage continu.</strong>
+</p>
 
 ---
 
@@ -23,7 +29,7 @@ Développeur **web fullstack** passionné par le code bien écrit, les projets u
 
 ---
 
-## 🔧 Mes outils & technos
+## 🔧 Ma stack & mes outils
 
 ![Symfony](https://img.shields.io/badge/-Symfony-000?style=flat&logo=symfony&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
@@ -46,4 +52,31 @@ Et si tu as une suggestion, un retour, une idée ? Je prends avec plaisir 🙌
 
 ---
 
+## 📈 Mes stats GitHub
+
+![Devzair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devzair-Officiel&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devzair-Officiel&layout=compact&theme=github_dark)
+
+---
+
+## 💬 À propos de moi
+
+- 🌱 Toujours en train d’apprendre (surtout quand il y a du Dev dans les zair)
+- 🧠 Curieux et friand de nouvelles technos
+- 🧩 J’aime les projets bien pensés, bien codés et bien documentés
+- 🧑‍🤝‍🧑 Team collaboration + partage = ❤️
+
+---
+
+## 👀 Vue du profil
+
+![Profile views](https://komarev.com/ghpvc/?username=Devzair-Officiel&style=flat-square&color=blue)
+
+---
+
 > _"Un bon code, c’est comme une bonne blague : si tu dois l’expliquer… c’est qu’elle est pas terrible."_ 😄
+> _— Devzair_
+
+---
+
