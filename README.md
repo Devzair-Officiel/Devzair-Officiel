@@ -1,4 +1,4 @@
-# 👋 Hello, moi DevZair
+# 👋 Hello, moi c'est DevZair
 
 Développeur **web fullstack** passionné par le code bien écrit, les projets utiles et l'apprentissage continu.
 
