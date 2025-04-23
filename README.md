@@ -40,8 +40,8 @@ Développeur **web fullstack** passionné par le code bien écrit, les projets u
 ## 📫 Me contacter
 
 Tu veux collaborer, discuter code ou simplement me dire bonjour ?  
-Je suis là 👉 contact@devzair.fr
-Tu veux voir mes projets, tu es au bon endroit 👇
+Je suis là 👉 contact@devzair.fr 
+Tu veux voir mes projets, tu es au bon endroit 👇 
 Et si tu as une suggestion, un retour, une idée ? Je prends avec plaisir 🙌
 
 ---
