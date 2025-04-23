@@ -61,7 +61,7 @@ Et si tu as une suggestion, un retour, une idée ? Je prends avec plaisir 🙌
 - 🌱 Toujours en train d’apprendre (surtout quand il y a du Dev dans les zair)
 - 🧠 Curieux et friand de nouvelles technos
 - 🧩 J’aime les projets bien pensés, bien codés et bien documentés
-- 🧑‍🤝‍🧑 Team collaboration + partage = ❤️
+- 🧑‍🤝‍🧑 Team collaboration + partage 
 
 ---
 
